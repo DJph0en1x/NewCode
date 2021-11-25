@@ -1,0 +1,8 @@
+To Run Program: 
+
+	1. Type in "make" to create the running program. 
+	2. Type in "./a.out " with the number of threads you wish to create next 	to it.  
+
+For wanting Part 1: 
+	1. Comment out all the mutex and barrier, including PTHREAD_SYNC, and uncomment if and usleep() in SimpleThread function. 
+	2. Save changes and then repeat steps above. 

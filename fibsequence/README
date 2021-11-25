@@ -1,0 +1,5 @@
+Steps in running multithreadfibseq program: 
+
+	Step 1: Type in make to create the program to run it. 
+	Step 2: Type in "./a.out" with any integer next to it to run the program
+
